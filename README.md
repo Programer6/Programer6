@@ -2,11 +2,11 @@
 <h3 align="center"></h3>
 #Hello, I am
 <br>
-- 🔭 I’m currently working on an educational platform
-- 🌱 I’m currently learning Deep Learning
-- 👯 I’m looking to collaborate on any cool opensource projects
-- 📫 How to reach me: 
-- 😄 Pronouns: He/him
+<p>- 🔭 I’m currently working on an educational platform</p>
+<p>- 🌱 I’m currently learning Deep Learning</p>
+<p>- 👯 I’m looking to collaborate on any cool opensource projects</p>
+<p>- 📫 How to reach me: </p>
+<p>- 😄 Pronouns: He/him</p>
 <br>
 #Github Stats 📈
 
